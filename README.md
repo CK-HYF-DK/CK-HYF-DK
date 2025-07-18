@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Christopher
-- 🌱 I’m the founder of [HackYourFuture Denmark](https://www.hackyourfuture.dk). I brought this initiative to Denmark in 2017 and am currently the Treasurer on the board of the HackYourFuture Association :) Feel free to ask me anything (ideally on Slack).
-- 👀 I’m currently playing around with Cursor and Webflow
+- 🌱 I’m the founder of [HackYourFuture Denmark](https://www.hackyourfuture.dk). I brought this initiative to Denmark in 2017 and am currently the Chairperson of the board of the HackYourFuture Association :) Feel free to ask me anything (ideally on Slack).
+- 👨‍💻 Now and then I build a small hobby project on here.
+- 👀 I’m currently playing around with v0, Cursor and Webflow
 - 📫 How to reach me: Catch me on Slack, [mail](mailto:"christopher@hackyourfuture.dk") or [Linkedin](https://www.linkedin.com/in/christopher-klueter/)
